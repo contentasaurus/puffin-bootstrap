@@ -1,0 +1,13 @@
+{
+	"name": "contentasaurus/puffin-bootstrap",
+	"description": "A great way to get started with Puffin.",
+	"license": "MIT",
+	"require": {
+		"contentasaurus/puffin-framework": "1.0.*",
+		"contentasaurus/puffin-feather": "1.0.*"
+	},
+	"config": {
+		"vendor-dir": "vendor"
+	},
+	"minimum-stability":"dev"
+}
