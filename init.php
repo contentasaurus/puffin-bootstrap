@@ -25,8 +25,6 @@ define('UPLOAD_PATH', PUBLIC_PATH.'/uploads');
 define('VENDOR_PATH', SERVER_ROOT.'/vendor');
 define('SYSTEM_PATH', VENDOR_PATH.'/puffin');
 
-define('MUSTACHE_EXT', '.html');
-
 define('ERROR_REPORTING', true);
 
 ############################################
